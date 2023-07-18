@@ -1,4 +1,4 @@
-### Hi there, I am Askar 👋
+### Hi there, I am Askar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am excited to contribute to meaningful projects and collaborate with talented individuals. Feel free to explore my GitHub repositories to see some of my past work and don't hesitate to reach out if you have any questions or potential collaboration opportunities!
 
 
@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadaskar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" style="margin:auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadaskar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=issues" style="margin:auto;">
 </div>
