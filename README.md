@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=F0D6B7)
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadaskar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=issues" style="margin:auto;">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadaskar&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=issues" style="margin:auto;">
 </div>
