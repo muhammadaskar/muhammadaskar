@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 
 #### Technology and Stats
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=E95420)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=00acd7)
 ![](https://img.shields.io/badge/Code-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Library-Vue-informational?style=flat&logo=vuedotjs&logoColor=white&color=42B883)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
